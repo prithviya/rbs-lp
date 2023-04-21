@@ -1548,6 +1548,7 @@ input[type=radio] {
     border: 5px solid #fbaa33;
     border-radius: 50%;
     background: #fbaa33;
+    padding: 15px;
 }
 
 .overlay-img {
